@@ -37,7 +37,7 @@ minutos_x_hora = 60
 
 minutos_x_semana = semana * dias_x_semana * hora_x_dia * minutos_x_hora
 
-print(f"Hay{minutos_x_semana} minutos en {semana} semana")
+print(f"Hay {minutos_x_semana} minutos en {semana} semana")
 
 # 2. Dada esta situación:Una juguetería tiene mucho éxito en la venta de dos de sus productos: payasos y muñecas. 
 # Suele hacer ventas por correo y la empresa de logística les cobra por el peso de cada paquete, por lo que 
@@ -51,7 +51,7 @@ cantidad_munecas = int(input("Ingrese la cantidad de Muñecas del ultimo pedido:
 cantidad_payasos = int(input("Ingrese la cantidad de payasos del ultimo pedido: "))
 
 peso_muneca = 0.75
-peso_payaso = 1.12
+peso_payaso = 0.112
 
 peso_total_munecas = cantidad_munecas * peso_muneca
 
@@ -60,13 +60,13 @@ peso_total_payasos = cantidad_payasos * peso_payaso
 peso_final = peso_total_munecas + peso_total_payasos
 
 print(":::: DETALLES PESAJE ::::")
-print(f"Cantidad de muñecas: {cantidad_munecas}" "\n"
-      f"Pesaje de muñecas: {peso_muneca}" "\n"
+print(f"Cantidad de muñecas: {cantidad_munecas} kg" "\n"
+      f"Pesaje de muñecas: {peso_muneca} kg" "\n"
       f"Peso total muñecas: {peso_total_munecas}")
 print(":::::::::::::::::::::::::::::::::::::::::::::::::")
 print(f"Cantidad de payasos: {cantidad_payasos}" "\n"
-      f"Pesaje de payasos: {peso_payaso}" "\n"
-      f"Peso total payasos: {peso_total_payasos}")
+      f"Pesaje de payasos: {peso_payaso} kg" "\n"
+      f"Peso total payasos: {peso_total_payasos} kg")
 print(":::::::::::::::::::::::::::::::::::::::::::::::::")
 print(f"PESO TOTAL: {peso_final} kls.")
 

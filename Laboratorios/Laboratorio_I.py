@@ -19,7 +19,7 @@ texto_uno = "potente"
 texto_dos = "sol"
 texto_tres = "triunfo"
 
-print(f"La {texto_uno} luz del {texto_dos} irradió en{texto_tres}")
+print(f"La {texto_uno} luz del {texto_dos} irradió en {texto_tres}")
 
 # 2. Realiza un programa que tenga 2 variables, base = 10 y altura = 5.
 #    Calcula el área de un rectángulo y muestra el resultado por pantalla.
