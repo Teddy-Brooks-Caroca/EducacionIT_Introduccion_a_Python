@@ -33,10 +33,9 @@ estrellas(5)
 # Por ejemplo, el código: sumar(10,30). Debe retornar: 40.
 
 def sumar(a,b):
-    c = a + b
-    print(c)
+    return a + b
 
-sumar(10,30)
+print(sumar(10, 30))
 
 # =====================================================
 #   EJERCICIO 3: GENERAR UN RANGO CON UNA FUNCIÓN
