@@ -1,270 +1,269 @@
-# \# 🐍 Curso de Introducción a Python – Actualizado 2025
+# 🐍 Curso de Introducción a Python – Actualizado 2025
 
-# 
+ 
 
-# Este repositorio contiene los ejercicios, desafíos y el \*\*Proyecto Integrador\*\* correspondientes al curso \*\*Introducción a Python\*\* de \*\*EducaciónIT\*\*, realizado originalmente en 2023 y actualizado en 2025 con mejoras, refactorización de código y nuevas consignas.
+Este repositorio contiene los ejercicios, desafíos y el **Proyecto Integrador** correspondientes al curso **Introducción a Python** de **EducaciónIT**, realizado originalmente en 2023 y actualizado en 2025 con mejoras, refactorización de código y nuevas consignas.
 
-# 
+ 
 
-# El objetivo del curso fue adquirir los fundamentos de la programación en Python mediante una metodología \*learning by doing\*, avanzando desde scripts de consola hasta aplicaciones de escritorio con interfaz gráfica.
+El objetivo del curso fue adquirir los fundamentos de la programación en Python mediante una metodología *learning by doing*, avanzando desde scripts de consola hasta aplicaciones de escritorio con interfaz gráfica.
 
-# 
 
-# ---
 
-# 
+---
 
-# \## 📌 Objetivos del curso
+ 
 
-# 
+## 📌 Objetivos del curso
 
-# \* Comprender los fundamentos de la programación.
+ 
 
-# \* Aprender la sintaxis y lógica del lenguaje Python.
+* Comprender los fundamentos de la programación.
 
-# \* Resolver problemas utilizando estructuras de control.
+* Aprender la sintaxis y lógica del lenguaje Python.
 
-# \* Trabajar con funciones, listas y diccionarios.
+* Resolver problemas utilizando estructuras de control.
 
-# \* Desarrollar aplicaciones de consola y aplicaciones gráficas.
+* Trabajar con funciones, listas y diccionarios.
 
-# \* Aplicar buenas prácticas y validaciones básicas.
+* Desarrollar aplicaciones de consola y aplicaciones gráficas.
 
-# 
+* Aplicar buenas prácticas y validaciones básicas.
 
-# ---
+ 
 
-# 
+---
 
-# \## 🧠 Contenidos abordados
+ 
 
-# 
+## 🧠 Contenidos abordados
 
-# \### 1️⃣ Introducción a Python
+ 
 
-# 
+### 1️⃣ Introducción a Python
 
-# \* Estructura de un programa
+ 
 
-# \* Tipos de datos
+* Estructura de un programa
 
-# \* Operaciones básicas
+* Tipos de datos
 
-# \* Entrada de datos con `input()`
+* Operaciones básicas
 
-# \* Conversión de tipos
+* Entrada de datos con `input()`
 
-# 
+* Conversión de tipos
 
-# \### 2️⃣ Condicionales, bucles y listas
+ 
 
-# 
+### 2️⃣ Condicionales, bucles y listas
 
-# \* Condicionales `if / else`
+ 
 
-# \* Bucles `while` y `for`
+* Condicionales `if / else`
 
-# \* Uso de listas y matrices
+* Bucles `while` y `for`
 
-# \* Diccionarios y colecciones
+* Uso de listas y matrices
 
-# 
+* Diccionarios y colecciones
 
-# \### 3️⃣ Módulos y funciones
+ 
 
-# 
+### 3️⃣ Módulos y funciones
 
-# \* Definición de funciones
+ 
 
-# \* Parámetros y valores de retorno
+* Definición de funciones
 
-# \* Modularización
+* Parámetros y valores de retorno
 
-# \* Alcance de variables
+* Modularización
 
-# 
+* Alcance de variables
 
-# \### 4️⃣ Aplicaciones de escritorio
+ 
 
-# 
+### 4️⃣ Aplicaciones de escritorio
 
-# \* Introducción a `tkinter`
+ 
 
-# \* Widgets (Label, Button, Entry)
+* Introducción a `tkinter`
 
-# \* Eventos y callbacks
+* Widgets (Label, Button, Entry)
 
-# \* Buenas prácticas básicas de UX
+* Eventos y callbacks
 
-# 
+* Buenas prácticas básicas de UX
 
-# ---
+ 
 
-# 
+---
 
-# \## 🧪 Desafíos del curso
+ 
 
-# 
+## 🧪 Desafíos del curso
 
-# Durante el curso se resolvieron distintos desafíos prácticos, entre ellos:
+ 
 
-# 
+Durante el curso se resolvieron distintos desafíos prácticos, entre ellos:
 
-# \* Función para validar ingreso numérico sin `try-except`
+ 
 
-# \* Cálculo de áreas mediante funciones
+* Función para validar ingreso numérico sin `try-except`
 
-# \* Manipulación de listas (pares / impares, multiplicación)
+* Cálculo de áreas mediante funciones
 
-# \* Simulación de un dado con interfaz gráfica
+* Manipulación de listas (pares / impares, multiplicación)
 
-# 
+* Simulación de un dado con interfaz gráfica
 
-# Cada ejercicio refuerza conceptos clave del módulo correspondiente.
+ 
 
-# 
+Cada ejercicio refuerza conceptos clave del módulo correspondiente.
 
-# ---
+ 
 
-# 
+---
 
-# \## 🏗️ Proyecto Integrador
+ 
 
-# 
+## 🏗️ Proyecto Integrador
 
-# \*\*Programa de inscripciones y cursos por alumno\*\*
+ 
 
-# 
+**Programa de inscripciones y cursos por alumno**
 
-# El proyecto integrador consiste en el desarrollo progresivo de un sistema de gestión académica que permite:
 
-# 
 
-# \* Agregar alumnos y su cantidad de cursos
+El proyecto integrador consiste en el desarrollo progresivo de un sistema de gestión académica que permite:
 
-# \* Ver la lista completa de alumnos
+ 
 
-# \* Consultar la cantidad de cursos de un alumno
+* Agregar alumnos y su cantidad de cursos
 
-# 
+* Ver la lista completa de alumnos
 
-# \### 🔹 Etapa 4 – Interfaz gráfica
+* Consultar la cantidad de cursos de un alumno
 
-# 
+ 
 
-# En la etapa final, el sistema fue migrado a una aplicación de escritorio utilizando \*\*tkinter\*\*, incorporando:
+### 🔹 Etapa 4 – Interfaz gráfica
 
-# 
+ 
 
-# \* Botones de acción
+En la etapa final, el sistema fue migrado a una aplicación de escritorio utilizando **tkinter**, incorporando:
+ 
 
-# \* Cajas de texto
+* Botones de acción
 
-# \* Validación de entradas
+* Cajas de texto
 
-# \* Manejo de errores simples
+* Validación de entradas
 
-# \* Visualización de resultados en consola
+* Manejo de errores simples
 
-# 
+* Visualización de resultados en consola
 
-# Este proyecto forma parte del portafolio personal y demuestra el dominio de los fundamentos de Python.
+ 
 
-# 
+Este proyecto forma parte del portafolio personal y demuestra el dominio de los fundamentos de Python.
 
-# ---
+ 
 
-# 
+---
 
-# \## 🛠️ Tecnologías utilizadas
+ 
 
-# 
+## 🛠️ Tecnologías utilizadas
 
-# \* Python 3
+ 
 
-# \* Tkinter (interfaz gráfica)
+* Python 3
 
-# \* Programación estructurada
+* Tkinter (interfaz gráfica)
 
-# 
+* Programación estructurada
 
-# ---
+ 
 
-# 
+---
 
-# \## 🚀 Cómo ejecutar los programas
+ 
 
-# 
+## 🚀 Cómo ejecutar los programas
 
-# 1\. Clonar el repositorio:
+ 
 
-# 
+ 1. Clonar el repositorio:
 
-# ```bash
+ 
 
-# git clone https://github.com/tu-usuario/tu-repositorio.git
+ ```bash
 
-# ```
+ git clone https://github.com/tu-usuario/tu-repositorio.git
 
-# 
+ ```
 
-# 2\. Ejecutar el archivo deseado:
+ 
 
-# 
+ 2. Ejecutar el archivo deseado:
 
-# ```bash
 
-# python nombre\_del\_archivo.py
 
-# ```
+ ```bash
 
-# 
+ python nombre\_del\_archivo.py
 
-# ---
+ ```
 
-# 
+ 
 
-# \## 📚 Modalidad del curso
+---
 
-# 
+ 
 
-# \* Duración: \*\*5 semanas (18 horas)\*\*
+## 📚 Modalidad del curso
 
-# \* Modalidad: \*\*Online en vivo\*\*
+ 
 
-# \* Nivel: \*\*Principiante\*\*
+* Duración: **5 semanas (18 horas)**
 
-# \* Institución: \*\*EducaciónIT\*\*
+* Modalidad: **Online en vivo**
 
-# 
+* Nivel: **Principiante**
 
-# ---
+* Institución: **EducaciónIT**
 
-# 
+ 
 
-# \## ✍️ Autor
+---
 
-# 
+ 
 
-# \*\*Teddy Gordon Lee Brooks Caroca\*\*
+## ✍️ Autor
 
-# Antropólogo Sociocultural · Analista de Datos 
+ 
 
-# 
+**Teddy Gordon Lee Brooks Caroca**
 
-# ---
+Antropólogo Sociocultural · Analista de Datos 
 
-# 
+ 
 
-# \## ⭐ Nota final
+---
 
-# 
+ 
 
-# Este repositorio refleja un proceso de consolidación y profundización en Python, priorizando claridad, buenas prácticas y comprensión conceptual, con foco en la aplicación práctica.
+## ⭐ Nota final
 
-# 
+ 
 
-# ¡Seguimos aprendiendo! 🚀
+Este repositorio refleja un proceso de consolidación y profundización en Python, priorizando claridad, buenas prácticas y comprensión conceptual, con foco en la aplicación práctica.
+
+ 
+
+ ¡Seguimos aprendiendo! 🚀
 
 
 
